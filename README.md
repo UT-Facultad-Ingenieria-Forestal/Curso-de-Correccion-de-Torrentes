@@ -17,6 +17,12 @@
 ### [Unidad 6. Modelos de Riesgo Dinámicos](#unidad6)
 ### [Trabajo Práctico 1](#tp1)
 
+### [Unidad 7. Hidrología de Laderas](#unidad7)
+### [Trabajo Práctico 2 y 3](#tp2,3)
+### [Unidad 8. Hidrogeología de Laderas](#unidad8)
+### [Trabajo Práctico 4](#tp4)
+### [Unidad 9. Modelacion numerica del flujo de agua en Laderas](#unidad9)
+
 
 
 <a id="unidad1"></a>
@@ -158,6 +164,28 @@
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 6
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+<a id="unidad7"></a>
+## Unidad 7. Hidrología de Laderas
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 7
 
 ### Video 1
 <p align="center">

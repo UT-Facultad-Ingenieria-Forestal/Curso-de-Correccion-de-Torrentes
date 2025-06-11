@@ -199,6 +199,50 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
+<a id="unidad8"></a>
+## Unidad 8. Hidrogeología de Laderas
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 8
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+<a id="unidad9"></a>
+## Unidad 9. Modelacion numerica del flujo de agua en Laderas
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 9
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
  
   <a id="tp1"></a>
 ## Trabajo Práctico 1.

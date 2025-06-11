@@ -189,15 +189,17 @@
 
 ### Video 1
 <p align="center">
- <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+ <a href="https://www.youtube.com/watch?v=tD1v8PrCg6k" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
+
 ### Video 2
 <p align="center">
- <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+ <a href="https://www.youtube.com/watch?v=xjNPWSYw12o" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
+
 
 <a id="unidad8"></a>
 ## Unidad 8. Hidrogeología de Laderas

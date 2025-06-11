@@ -227,7 +227,7 @@
 ## Unidad 9. Modelacion numerica del flujo de agua en Laderas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a0c03ad-9470-4036-bbb6-45f3e5ee5ce"width="600">
+  <img src="https://github.com/user-attachments/assets/183bcfbf-9d1b-4a17-acce-667976b88801"width="600">
 </p> 
 
 

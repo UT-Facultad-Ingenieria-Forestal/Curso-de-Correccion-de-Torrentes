@@ -181,7 +181,7 @@
 ## Unidad 7. Hidrología de Laderas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+  <img src="https://github.com/user-attachments/assets/9729b11a-843b-4c80-bbd2-98f7542cf2b2"width="600">
 </p> 
 
 
@@ -205,7 +205,7 @@
 ## Unidad 8. Hidrogeología de Laderas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+  <img src="https://github.com/user-attachments/assets/723bbafd-3553-48f3-92e6-9ed8a74f4983"width="600">
 </p> 
 
 
@@ -213,13 +213,13 @@
 
 ### Video 1
 <p align="center">
- <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+ <a href="https://www.youtube.com/watch?v=8Q7C3xrJrpw" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
-
+  
 ### Video 2
 <p align="center">
- <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+ <a href="https://www.youtube.com/watch?v=2Z6tJ9zdxVI" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
@@ -227,7 +227,7 @@
 ## Unidad 9. Modelacion numerica del flujo de agua en Laderas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
+  <img src="https://github.com/user-attachments/assets/0cee36fb-b941-4e76-bc3b-edcfa2e9ecbb"width="600">
 </p> 
 
 
@@ -235,13 +235,14 @@
 
 ### Video 1
 <p align="center">
- <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
+ <a href="https://www.youtube.com/watch?v=HISlo-Kqnao" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
+
 ### Video 2
 <p align="center">
- <a href="https://www.youtube.com/watch?v=OWrBx95AL8I" target="_blank">
+ <a href="https://www.youtube.com/watch?v=urFZ2LcrliY" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 

@@ -174,6 +174,7 @@
  
   <a id="tp1"></a>
 ## Trabajo Práctico 1.
+### Mapeo Manual
 
 [NASA Landslide Viewer](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)
 
@@ -187,9 +188,46 @@
 
 [Google Earth (versión web)](https://www.google.es/intl/es/earth/index.html)  
 
+### Mapeo Automático
+
 [Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
 
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
+
+#### I_ratio
+
+Descripción
+
+El I_ratio es un índice de perturbación del terreno basado en datos SAR (polarización VH) que cuantifica el cambio en la retrodispersión entre dos periodos (pre-evento y post-evento). Es especialmente útil para detectar áreas afectadas por movimientos de masa, como deslizamientos y flujos de detritos.
+
+Cálculo
+Para cada píxel, el I_ratio se define como:
+
+I_ratio = VH_preEvento − VH_postEvento
+
+VH_preEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días antes del evento.
+
+VH_postEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días después del evento.
+
+Al restar ambas, resaltamos cambios significativos en la rugosidad del terreno y la presencia de material movilizado.
+
+Máscaras y Umbral
+
+Máscaras: Se aplican máscaras de agua y pendiente (>5°) para excluir zonas no relevantes.
+Umbral: Se calcula el percentil 99 de la distribución de I_ratio dentro del AOI. Aquellos píxeles con valores superiores a este umbral se marcan como posibles zonas de deslizamiento.
+
+Interpretación
+
+Valores altos de I_ratio indican un aumento de retrodispersión (posible acumulación de escombros o vegetación desplazada).
+Valores bajos (negativos) pueden señalar reducción de superficie reflectante o remoción de material.
+Aplicación
+
+
+
+
+
+
+
 
 
  

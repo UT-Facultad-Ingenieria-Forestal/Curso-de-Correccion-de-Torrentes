@@ -307,7 +307,9 @@ Valores bajos (negativos) pueden señalar reducción de superficie reflectante o
 Aplicación
 
 
+### Cartografía Geotécnica
 
+[Cartografía Geotécnica](https://edieraristizabal.github.io/Libro_cartoGeotecnia/intro.html)  
 
 
 

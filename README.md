@@ -255,10 +255,6 @@
 
 [Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)
 
-[Mapa interactivo de NASA NCCS](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)  
-
-[Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)  
-
 [EO Browser de Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/)  
 
 [Google Earth (versión web)](https://www.google.es/intl/es/earth/index.html)  

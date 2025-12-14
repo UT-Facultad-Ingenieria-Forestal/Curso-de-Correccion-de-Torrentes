@@ -251,7 +251,7 @@
 ## Trabajo Práctico 1.
 ### Mapeo Manual
 
-[NASA Landslide Viewer](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)
+[NASA Landslide Viewer](https://gis.earthdata.nasa.gov/portal/apps/experiencebuilder/experience/?id=a7b17eff544a4ce5ae045c32dbb99f7b)
 
 [Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)
 

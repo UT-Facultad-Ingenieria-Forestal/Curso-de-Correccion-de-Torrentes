@@ -251,13 +251,9 @@
 ## Trabajo Práctico 1.
 ### Mapeo Manual
 
-[NASA Landslide Viewer](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)
+[NASA Landslide Viewer](https://gis.earthdata.nasa.gov/portal/apps/experiencebuilder/experience/?id=a7b17eff544a4ce5ae045c32dbb99f7b)
 
 [Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)
-
-[Mapa interactivo de NASA NCCS](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)  
-
-[Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)  
 
 [EO Browser de Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/)  
 
@@ -269,6 +265,15 @@
 
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
 
+### Caso de estudio Petropolis
+
+#### Video Caso de estudio Petropolis
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=6L14ZAMXR7E" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+  
 #### I_ratio
 
 Descripción
@@ -298,7 +303,9 @@ Valores bajos (negativos) pueden señalar reducción de superficie reflectante o
 Aplicación
 
 
+### Cartografía Geotécnica
 
+[Cartografía Geotécnica](https://edieraristizabal.github.io/Libro_cartoGeotecnia/intro.html)  
 
 
 
